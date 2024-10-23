@@ -1,3 +1,3 @@
-# Week 06
+# Week 08
 
 Regression and Classification
